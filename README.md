@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @S0rek1X5 (Daniel)
+- 👀 I’m interested in learn and develop programing lenguages
+- 🌱 I’m currently learning HTML5, CSS and C
